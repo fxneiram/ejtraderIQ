@@ -4,4 +4,6 @@ dist/
 *.egg-info/
 .vscode/
 test.py
-
+histo/_ALL_OPERATIONS.csv
+histo/charts/*
+histo/csvs/*
